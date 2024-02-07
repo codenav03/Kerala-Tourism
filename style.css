@@ -17,10 +17,9 @@ body {
     margin-left: 100px;
     color: black;
 }
-.card {
-    flex: 1;
+.card{
+    height: 450px;
 }
-
 .card>img{
     height: 200px;
 }
